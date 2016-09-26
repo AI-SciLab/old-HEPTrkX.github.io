@@ -1,0 +1,11 @@
+This is a one-year HEP/ASCR DOE pilot project to evaluate and broaden the range of
+computational techniques and algorithms utilized in addressing  HEP tracking challenges. 
+Specifically the project  will provide a
+framework to develop and evaluate new algorithms for track finding and
+classification, that will be demonstrated by applying advanced pattern recognition
+techniques to track candidate formation. For example, an optimized track formation algorithm that 
+scales linearly with LHC luminosity, rather than quadratically or worse, may lead by itself to an order of
+magnitude improvement in the track processing throughput without affecting the
+track identification performance, hence maintaining the physics performance intact in the LHC upgrades. 
+
+
